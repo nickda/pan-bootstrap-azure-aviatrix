@@ -2,7 +2,7 @@
 
 
 Terraform Module to Bootstrap Palo Alto Networks VM-Series Firewall on Azure for Aviatrix Firenet.
-Reference: https://docs.aviatrix.com/HowTos/bootstrap_example.html
+Reference: https://docs.aviatrix.com/documentation/latest/firewall-and-security/pan-bootstrap-example-azure.html
 
 ## Usage with minimal customisation
 Default admin credential: admin/Aviatrix123#
