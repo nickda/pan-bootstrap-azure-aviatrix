@@ -6,6 +6,7 @@ Reference: https://docs.aviatrix.com/HowTos/bootstrap_example.html
 
 ## Usage with minimal customisation
 Default admin credential: admin/Aviatrix123#
+
 Default api user credential: admin-api/Aviatrix123#
 
 ```hcl
