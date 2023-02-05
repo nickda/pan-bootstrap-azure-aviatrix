@@ -18,7 +18,7 @@ module "pan-bootstrap-azure-aviatrix" {
 }
 ```
 
-This is an Azure port of the following module for AWS by Bayu Wibowo:
+This is an Azure port of the following module for AWS by @bayupw:
 https://github.com/bayupw/terraform-aws-pan-bootstrap-aviatrix/
 
 ## Contributing
